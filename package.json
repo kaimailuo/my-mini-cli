@@ -1,6 +1,6 @@
 {
   "name": "my-mini-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "简单vue脚手架",
   "main": "main.js",
   "scripts": {
